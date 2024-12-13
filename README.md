@@ -1,3 +1,8 @@
+A simple React App to generate random (sometimes unhelpful) advices from API. For future references of the same :)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
